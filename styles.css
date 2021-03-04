@@ -19,6 +19,10 @@ header {
   align-items: center;
 }
 
+.icon {
+  background-color: "efefef";
+}
+
 
 .icon img {
   /* border-radius: 20px; */
